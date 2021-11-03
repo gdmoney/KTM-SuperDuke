@@ -3,7 +3,7 @@
 
 ![](/pic.jpg)
 
-- bought on `11.02.2021` for `$11,400` with `1,250` miles
+- bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
 - engine #: `0561307793`
 - license plate #: `TBD`
