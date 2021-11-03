@@ -10,5 +10,6 @@
 - gas: `91+`
 - oil: `10W-50` full synthetic
 - tires:
+  - model: `Dunlop Sportmax Sportsmart`
   - front: `120/70-ZR17` - `36 psi`
-  - rear: `240/45-ZR17` - `42 psi`
+  - rear: `190/55-ZR17` - `42 psi`
