@@ -1,5 +1,5 @@
 # 2015 KTM Super Duke R
-### Maintenance log and parts/upgrades tracking for my current ride.
+### Maintenance log and parts/upgrades tracking for my current ride
 
 ![](/pic.jpg)
 
