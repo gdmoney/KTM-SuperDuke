@@ -42,15 +42,16 @@
 | front wheel sliders         | Evotech             | $62        | came with it     |
 | engine guart protector      | Evotech             | $140       | came with it     |
 | airbox kit + velocity stack | Motohooligan        | $499       | came with it     |
-| ergo seat - rider           | KTM Powerparts      | $159       | came with it     |
-| ergo seat - passenger       | KTM Powerparts      | $97        | came with it     |
+| ergo seat - rider           | KTM PowerParts      | $159       | came with it     |
+| ergo seat - passenger       | KTM PowerParts      | $97        | came with it     |
 | slip on                     | Spart Force         | $505       | came with it     |
 | decat mid pipe              | Arrow               | $337       | came with it     |
 | fuel dongles                | Rottweiler          | $50        | came with it     |
 | tail light                  | CustomLED Blaster-X | $160       | came with it     |
 | windscreen                  | Ermax               | $136       | came with it     |
 | bar end mirrors             | CRG                 | $200       | came with it     |
-| ABS race dongle             | KTM Powerparts      | $115       | came with it     |
+| ABS race dongle             | KTM PowerParts      | $115       | came with it     |
+| tank pads                   | TechSpec            | $75        | RevZilla         |
 
 
 
