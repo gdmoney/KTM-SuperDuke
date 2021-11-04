@@ -44,7 +44,7 @@
 | airbox kit + velocity stack | Motohooligan        | $499       | came with it     |
 | ergo seat - rider           | KTM PowerParts      | $159       | came with it     |
 | ergo seat - passenger       | KTM PowerParts      | $97        | came with it     |
-| slip on                     | Spark Force         | $505       | came with it     |
+| slip on exhaust             | Spark Force         | $505       | came with it     |
 | decat mid pipe              | Arrow               | $337       | came with it     |
 | fuel dongles                | Rottweiler          | $50        | came with it     |
 | tail light                  | CustomLED Blaster-X | $160       | came with it     |
