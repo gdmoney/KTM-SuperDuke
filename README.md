@@ -30,10 +30,10 @@
 | spark plugs           |            |            |            |                                           |
 | valve adjustment      |            |            |            |                                           |
 | chain clean/wax       |            |            |            |                                           |
-| battery               | 2021       |            |            | previous owner had it done before selling |
-| fuel pump             | 2021       |            |            | previous owner had it done before selling |
-| fuel filter           | 2021       |            |            | previous owner had it done before selling |
-| throttle body service | 2021       |            |            | previous owner had it done before selling |
+| battery               | 2021       | <1,250     |            | previous owner had it done before selling |
+| fuel pump             | 2021       | <1,250     |            | previous owner had it done before selling |
+| fuel filter           | 2021       | <1,250     |            | previous owner had it done before selling |
+| throttle body service | 2021       | <1,250     |            | previous owner had it done before selling |
 
 *****
 
@@ -53,17 +53,3 @@
 | bar end mirrors             | CRG                 | $200       | came with it     |
 | ABS race dongle             | KTM PowerParts      | $115       | came with it     |
 | tank pads                   | TechSpec            | $75        | RevZilla         |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
