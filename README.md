@@ -53,3 +53,5 @@
 | bar end mirrors             | CRG                 | $200       | came with it     |
 | ABS race dongle             | KTM PowerParts      | $115       | came with it     |
 | tank pads                   | TechSpec            | $75        | RevZilla         |
+| mirror hole plugs           | TBD                 | $TBD       | TBD              |
+
