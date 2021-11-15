@@ -6,7 +6,7 @@
 - bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
 - engine #: `0561307793`
-- license plate #: `C028W0`
+- license plate #: `22U3233`
 - gas: `91+`
 - engine oil:
   - type: `10W-50` full synthetic
