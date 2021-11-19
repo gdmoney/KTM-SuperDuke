@@ -18,7 +18,7 @@
 
 *****
 
-| Service               | Date       | Mileage    | Price      | Notes                                     |
+| Service               | Date       | Mileage    | Cost       | Notes                                     |
 | :-------------------- | :--------: | :--------: | :--------- | :---------------------------------------- |
 | engine oil & filter   |            |            |            |                                           |
 | brake pads - F        |            |            |            |                                           |
