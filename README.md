@@ -21,7 +21,6 @@
 | Service               | Date       | Mileage    | Price      | Notes                                     |
 | :-------------------- | :--------: | :--------: | :--------- | :---------------------------------------- |
 | engine oil & filter   |            |            |            |                                           |
-| air filter            |            |            |            |                                           |
 | brake pads - F        |            |            |            |                                           |
 | brake pads - R        |            |            |            |                                           |
 | brake fluid           |            |            |            |                                           |
@@ -29,7 +28,7 @@
 | coolant               |            |            |            |                                           |
 | spark plugs           |            |            |            |                                           |
 | valve adjustment      |            |            |            |                                           |
-| chain clean/wax       |            |            |            |                                           |
+| chain clean/wax       | 11.12.2021 |  1,500     |            |                                           |
 | battery               | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
 | fuel pump             | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
 | fuel filter           | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
