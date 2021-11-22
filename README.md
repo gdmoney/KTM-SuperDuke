@@ -29,10 +29,10 @@
 | spark plugs           |            |            |            |                                             |
 | valve adjustment      |            |            |            |                                             |
 | chain clean/wax       | 11.12.2021 |  1,500     |            |                                             |
-| battery               | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
-| fuel pump             | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
-| fuel filter           | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
-| throttle body service | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
+| battery               | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
+| fuel pump             | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
+| fuel filter           | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
+| throttle body service | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
 
 *****
 
