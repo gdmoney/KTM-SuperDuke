@@ -18,21 +18,21 @@
 
 *****
 
-| Service               | Date       | Mileage    | Cost       | Notes                                     |
-| :-------------------- | :--------: | :--------: | :--------- | :---------------------------------------- |
-| engine oil & filter   |            |            |            |                                           |
-| brake pads - F        |            |            |            |                                           |
-| brake pads - R        |            |            |            |                                           |
-| brake fluid           |            |            |            |                                           |
-| clutch fluid          |            |            |            |                                           |
-| coolant               |            |            |            |                                           |
-| spark plugs           |            |            |            |                                           |
-| valve adjustment      |            |            |            |                                           |
-| chain clean/wax       | 11.12.2021 |  1,500     |            |                                           |
-| battery               | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
-| fuel pump             | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
-| fuel filter           | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
-| throttle body service | 10.nn.2021 | ~1,200     |            | previous owner had it done before selling |
+| Service               | Date       | Mileage    | Cost       | Notes                                       |
+| :-------------------- | :--------: | :--------: | :--------- | :------------------------------------------ |
+| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 service       |
+| brake fluid           | 11.20.2021 | 1,755      |            |                                             |
+| clutch fluid          | 11.20.2021 | 1,755      |            |                                             |
+| coolant               | 11.20.2021 | 1,755      |            |                                             |
+| brake pads - F        |            |            |            |                                             |
+| brake pads - R        |            |            |            |                                             |
+| spark plugs           |            |            |            |                                             |
+| valve adjustment      |            |            |            |                                             |
+| chain clean/wax       | 11.12.2021 |  1,500     |            |                                             |
+| battery               | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
+| fuel pump             | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
+| fuel filter           | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
+| throttle body service | 10.nn.2021 | ~1,200     |            | previous owner had it done prior to selling |
 
 *****
 
@@ -52,5 +52,5 @@
 | bar end mirrors             | CRG                 | $200       | came with it     |
 | ABS race dongle             | KTM PowerParts      | $115       | came with it     |
 | tank pads                   | TechSpec            | $75        | RevZilla         |
-| low profile front blinker   | TBD                 | $TBD       | TBD              |
+| low profile front blinkers  | TBD                 | $TBD       | TBD              |
 
