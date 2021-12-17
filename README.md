@@ -52,5 +52,5 @@
 | bar end mirrors             | CRG                 | $200       | came with it     |
 | ABS race dongle             | KTM PowerParts      | $115       | came with it     |
 | tank pads                   | TechSpec            | $75        | RevZilla         |
-| low profile front blinkers  | TBD                 | $TBD       | TBD              |
+| front turn signals          | Motogadget          | $90        | Amazon           |
 
