@@ -44,7 +44,7 @@
 | frame sliders               | Evotech             | $298       | came with it     |
 | front wheel sliders         | Evotech             | $62        | came with it     |
 | engine guart protector      | Evotech             | $140       | came with it     |
-| slip on exhaust             | Spark Force         | $505       | came with it     |
+| slip-on exhaust             | Spark Force         | $505       | came with it     |
 | airbox kit + velocity stack | Motohooligan        | $499       | came with it     |
 | decat mid pipe              | Arrow               | $337       | came with it     |
 | fuel dongles                | Rottweiler          | $50        | came with it     |
