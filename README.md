@@ -3,6 +3,7 @@
 
 ![](/pic.jpg)
 
+### Notes
 - bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
 - engine #: `0561307793`
@@ -16,7 +17,7 @@
   - front: `120/70-ZR17` - `36 psi`
   - rear:  `190/55-ZR17` - `42 psi`
 
-*****
+### Service
 
 | Service               | Date       | Mileage    | Cost       | Notes                                       |
 | :-------------------- | :--------- | :--------: | :--------: | :------------------------------------------ |
@@ -34,7 +35,7 @@
 | fuel filter           | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
 | throttle body service | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
 
-*****
+### Parts/Upgrades
 
 | Part                        | Brand               | Price      | Notes            |
 | :-------------------------- | :------------------ | :--------: | :--------------- |
