@@ -49,7 +49,7 @@
 | decat mid pipe              | Arrow               | $337       | came with it     |
 | airbox kit + velocity stack | Motohooligan        | $499       | came with it     |
 | fueling dongles             | Rottweiler          | $50        | came with it     |
-| rear sets                   | Attack Performance  | $625       | came with it     |
+| rear sets                   | Attack Performance  | $550       | came with it     |
 | windscreen                  | Ermax               | $136       | came with it     |
 | bar end mirrors             | CRG                 | $200       | came with it     |
 | tail light + turn signals   | CustomLED Blaster-X | $160       | came with it     |
