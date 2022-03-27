@@ -7,7 +7,7 @@
 - bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
 - engine #: `0561307793`
-- license plate #: `22U3233`
+- license plate #: `22U3301`
 - gas: `91+`
 - engine oil:
   - type: `10W-50` full synthetic
@@ -29,7 +29,7 @@
 | brake pads - R        |            |            |            |                                             |
 | spark plugs           |            |            |            |                                             |
 | valve adjustment      |            |            |            |                                             |
-| chain clean/wax       | 11.12.2021 |  1,500     |            |                                             |
+| chain clean/wax       | 03.27.2022 |  3,300     |            |                                             |
 | battery               | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
 | fuel pump             | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
 | fuel filter           | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
