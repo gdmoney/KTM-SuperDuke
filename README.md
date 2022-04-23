@@ -19,21 +19,22 @@
 
 ### Service
 
-| Service               | Date       | Mileage    | Cost       | Notes                                       |
-| :-------------------- | :--------- | :--------: | :--------: | :------------------------------------------ |
-| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 service       |
-| brake fluid           | 11.20.2021 | 1,755      |            |                                             |
-| clutch fluid          | 11.20.2021 | 1,755      |            |                                             |
-| coolant               | 11.20.2021 | 1,755      |            |                                             |
-| brake pads - F        |            |            |            |                                             |
-| brake pads - R        |            |            |            |                                             |
-| spark plugs           |            |            |            |                                             |
-| valve adjustment      |            |            |            |                                             |
-| chain clean/wax       | 03.27.2022 |  3,300     |            |                                             |
-| battery               | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
-| fuel pump             | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
-| fuel filter           | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
-| throttle body service | 10.nn.2021 |  1,200     |            | previous owner had it done prior to selling |
+| Service               | Date       | Mileage    | Cost       | Notes                                           |
+| :-------------------- | :--------- | :--------: | :--------: | :---------------------------------------------- |
+| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 servicd           |
+| brake fluid           | 11.20.2021 | 1,755      |            |                                                 |
+| clutch fluid          | 11.20.2021 | 1,755      |            |                                                 |
+| coolant               | 04.16.2022 | 6,967      |            | previously replaced on 11.20.2021               |
+| brake pads - F        |            |            |            |                                                 |
+| brake pads - R        |            |            |            |                                                 |    
+| spark plugs           |            |            |            |                                                 |
+| valve adjustment      |            |            |            |                                                 |
+| chain clean/wax       | 03.27.2022 | 3,300      |            |                                                 |
+| battery               | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
+| fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
+| fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
+| throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
+| new radiator          | 04.16.2022 | 6,967      | $656       | new radiator, coolant, and thermostat delete    |
 
 ### Parts/Upgrades
 
