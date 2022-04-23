@@ -21,7 +21,7 @@
 
 | Service               | Date       | Mileage    | Cost       | Notes                                           |
 | :-------------------- | :--------- | :--------: | :--------: | :---------------------------------------------- |
-| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 servicd           |
+| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 service           |
 | brake fluid           | 11.20.2021 | 1,755      |            |                                                 |
 | clutch fluid          | 11.20.2021 | 1,755      |            |                                                 |
 | coolant               | 04.16.2022 | 6,967      |            | previously replaced on 11.20.2021               |
