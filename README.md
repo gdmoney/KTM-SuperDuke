@@ -21,10 +21,10 @@
 
 | Service               | Date       | Mileage    | Cost       | Notes                                           |
 | :-------------------- | :--------- | :--------: | :--------: | :---------------------------------------------- |
-| engine oil & filter   | 11.20.2021 | 1,755      | $231       | total cost for the 11.20.2021 service           |
-| brake fluid           | 11.20.2021 | 1,755      |            |                                                 |
-| clutch fluid          | 11.20.2021 | 1,755      |            |                                                 |
-| coolant               | 04.16.2022 | 6,967      |            | previously replaced on 11.20.2021               |
+| engine oil & filter   | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service           |
+| brake fluid           | 11.20.2021 | 1,750      |            |                                                 |
+| clutch fluid          | 11.20.2021 | 1,750      |            |                                                 |
+| coolant               | 04.16.2022 | 3,400      |            | previously replaced on 11.20.2021               |
 | brake pads - F        |            |            |            |                                                 |
 | brake pads - R        |            |            |            |                                                 |    
 | spark plugs           |            |            |            |                                                 |
@@ -34,25 +34,25 @@
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
-| new radiator          | 04.16.2022 | 6,967      | $656       | new radiator, coolant, and thermostat delete    |
+| new radiator          | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete    |
 
 ### Parts/Upgrades
 
-| Part                        | Brand               | Price      | Notes            |
-| :-------------------------- | :------------------ | :--------: | :--------------- |
-| ergo seat - rider           | KTM PowerParts      | $159       | came with it     |
-| ergo seat - passenger       | KTM PowerParts      | $97        | came with it     |
-| ABS race dongle             | KTM PowerParts      | $115       | came with it     |
-| frame sliders               | Evotech             | $298       | came with it     |
-| front wheel sliders         | Evotech             | $62        | came with it     |
-| engine guart protector      | Evotech             | $140       | came with it     |
-| slip-on exhaust             | Spark Force         | $505       | came with it     |
-| decat mid pipe              | Arrow               | $337       | came with it     |
-| airbox kit + velocity stack | Motohooligan        | $499       | came with it     |
-| fueling dongles             | Rottweiler          | $50        | came with it     |
-| rear sets                   | Attack Performance  | $550       | came with it     |
-| windscreen                  | Ermax               | $136       | came with it     |
-| bar end mirrors             | CRG                 | $200       | came with it     |
-| tail light + turn signals   | CustomLED Blaster-X | $160       | came with it     |
-| front turn signals          | Motogadget          | $90        | Amazon           |
-| tank pads                   | TechSpec            | $75        | RevZilla         |
+| Part                        | Brand                  | Price      | Notes            |
+| :-------------------------- | :--------------------- | :--------: | :--------------- |
+| ergo seat - rider           | KTM PowerParts         | $159       | came with it     |
+| ergo seat - passenger       | KTM PowerParts         | $97        | came with it     |
+| ABS race dongle             | KTM PowerParts         | $115       | came with it     |
+| frame sliders               | Evotech                | $298       | came with it     |
+| front wheel sliders         | Evotech                | $62        | came with it     |
+| engine guart protector      | Evotech                | $140       | came with it     |
+| slip-on exhaust             | Spark Force            | $505       | came with it     |
+| decat mid pipe              | Arrow                  | $337       | came with it     |
+| airbox kit + velocity stack | Motohooligan           | $499       | came with it     |
+| fueling & emission dongles  | Rottweiler Performance | $100       | came with it     |
+| rear sets                   | Attack Performance     | $550       | came with it     |
+| windscreen                  | Ermax                  | $136       | came with it     |
+| bar end mirrors             | CRG                    | $200       | came with it     |
+| tail light + turn signals   | CustomLED Blaster-X    | $160       | came with it     |
+| front turn signals          | Motogadget             | $90        | Amazon           |
+| tank pads                   | TechSpec               | $75        | RevZilla         |
