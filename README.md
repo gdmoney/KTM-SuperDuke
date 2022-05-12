@@ -1,7 +1,10 @@
 # 2015 KTM Super Duke R
+
+
 ### Maintenance log and parts/upgrades tracking for my current ride
 
 ![](/pic.jpg)
+
 
 ### Notes
 - bought on `11.02.2021` for `$11,000` with `1,250` miles
@@ -16,6 +19,7 @@
   - model: `Dunlop Sportmax Sportsmart`
   - front: `120/70-ZR17` - `36 psi`
   - rear:  `190/55-ZR17` - `42 psi`
+
 
 ### Service
 
@@ -35,6 +39,9 @@
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | new radiator          | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete    |
+| tire - F              | 05.12.2022 | 3,xxx      | $145       | Michelin Pilot Power 2CT 120/70-17 58W          |
+| tire - R              | 05.12.2022 | 3,xxx      | $200       | Michelin Pilot Power 2CT 190/55-17 75W          |
+
 
 ### Parts/Upgrades
 
