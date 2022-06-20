@@ -33,7 +33,7 @@
 | brake pads - R        |            |            |            |                                                 |    
 | spark plugs           |            |            |            |                                                 |
 | valve adjustment      |            |            |            |                                                 |
-| chain clean/wax       | 03.27.2022 | 3,300      |            |                                                 |
+| chain clean/wax       | 06.20.2022 | 3,800      |            |                                                 |
 | battery               | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
@@ -41,7 +41,7 @@
 | new radiator          | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete    |
 | tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W          |
 | tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W          |
-| ECU flash             | 06.15.2022 | 3,800      | $400       | P3Tuning                                        |
+| ECU flash             | 06.20.2022 | 3,800      | $400       | P3Tuning                                        |
 
 
 ### Parts/Upgrades
