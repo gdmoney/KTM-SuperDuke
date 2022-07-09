@@ -17,8 +17,8 @@
   - capacity: `3.6 L (3.8 qt)`
 - tires:
   - model: `Dunlop Sportmax Sportsmart`
-  - front: `120/70-ZR17` - `36 psi`
-  - rear:  `190/55-ZR17` - `42 psi`
+  - front: `120/70 ZR 17` - `36 psi`
+  - rear:  `190/55 ZR 17` - `42 psi`
 
 
 ### Service
