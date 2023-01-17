@@ -26,14 +26,18 @@
 | Service               | Date       | Mileage    | Cost       | Notes                                           |
 | :-------------------- | :--------- | :--------: | :--------: | :---------------------------------------------- |
 | engine oil & filter   | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service           |
+|                       | 01.14.2023 | 5,720      |            |                                                 |
 | brake fluid           | 11.20.2021 | 1,750      |            |                                                 |
 | clutch fluid          | 11.20.2021 | 1,750      |            |                                                 |
-| coolant               | 04.16.2022 | 3,400      |            | previously replaced on 11.20.2021               |
+| coolant               | 11.20.2021 | 1,750      |            |                                                 |
+|                       | 04.16.2022 | 3,400      |            |                                                 |
 | brake pads - F        |            |            |            |                                                 |
 | brake pads - R        |            |            |            |                                                 |    
 | spark plugs           |            |            |            |                                                 |
 | valve adjustment      |            |            |            |                                                 |
-| chain clean/wax       | 06.20.2022 | 3,800      |            |                                                 |
+| chain clean/wax       | 04.15.2022 | 3,400      |            |                                                 |
+|                       | 06.20.2022 | 3,800      |            |                                                 |
+|                       | 01.14.2023 | 5,720      |            |                                                 |
 | battery               | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling     |
