@@ -46,26 +46,28 @@
 | tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W                             |
 | tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W                             |
 | ECU flash             | 06.20.2022 | 3,800      | $400       | P3Tuning                                                           |
-| front sprocket - new  | 01.28.2023 | 4,290      | $42        | Drive Systems 16T (-1 from stock) / Rottweiler / Poway Powersports |
+
 
 
 ### Parts/Upgrades
 
-| Part                        | Brand                  | Price      | Notes                 |
-| :-------------------------- | :--------------------- | :--------: | :-------------------- |
-| ergo seat - rider           | KTM PowerParts         | $159       | came with it          |
-| ergo seat - passenger       | KTM PowerParts         | $97        | came with it          |
-| ABS race dongle             | KTM PowerParts         | $115       | came with it          |
-| frame sliders               | Evotech                | $298       | came with it          |
-| front wheel sliders         | Evotech                | $62        | came with it          |
-| engine guard                | Evotech                | $140       | came with it          |
-| slip-on exhaust             | Spark Force            | $505       | came with it          |
-| decat mid pipe              | Arrow                  | $337       | came with it          |
-| airbox kit + velocity stack | Motohooligan           | $499       | came with it          |
-| fueling & emission dongles  | Rottweiler Performance | $100       | came with it          |
-| rear sets                   | Attack Performance     | $550       | came with it          |
-| windscreen                  | Ermax                  | $136       | came with it          |
-| bar end mirrors             | CRG                    | $200       | came with it          |
-| tail light + turn signals   | CustomLED Blaster-X    | $160       | came with it          |
-| front turn signals          | Motogadget             | $90        | Amazon                |
-| tank pads                   | TechSpec               | $75        | RevZilla              |
+| Part                        | Brand                  | Price      | Notes                             |
+| :-------------------------- | :--------------------- | :--------: | :-------------------------------- |
+| ergo seat - rider           | KTM PowerParts         | $159       | came with it                      |
+| ergo seat - passenger       | KTM PowerParts         | $97        | came with it                      |
+| ABS race dongle             | KTM PowerParts         | $115       | came with it                      |
+| frame sliders               | Evotech                | $298       | came with it                      |
+| front wheel sliders         | Evotech                | $62        | came with it                      |
+| engine guard                | Evotech                | $140       | came with it                      |
+| slip-on exhaust             | Spark Force            | $505       | came with it                      |
+| decat mid pipe              | Arrow                  | $337       | came with it                      |
+| airbox kit + velocity stack | Motohooligan           | $499       | came with it                      |
+| fueling & emission dongles  | Rottweiler Performance | $100       | came with it                      |
+| rear sets                   | Attack Performance     | $550       | came with it                      |
+| windscreen                  | Ermax                  | $136       | came with it                      |
+| bar end mirrors             | CRG                    | $200       | came with it                      |
+| tail light + turn signals   | CustomLED Blaster-X    | $160       | came with it                      |
+| front turn signals          | Motogadget             | $90        | Amazon                            |
+| tank pads                   | TechSpec               | $75        | RevZilla                          |
+| front sprocket              | Drive Systems          | $42        | 16T (-1 from stock) @ 4,290 miles |
+| rear  sprocket              | Drive Systems          | $50        | 40T (+2 from stock) @ n,nnn miles |
