@@ -10,7 +10,7 @@
 - bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
 - engine #: `0561307793`
-- license plate #: `22U3301`
+- license plate #: `GD LUKA`
 - gas: `91+`
 - engine oil:
   - type: `10W-50` full synthetic
