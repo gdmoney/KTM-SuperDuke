@@ -70,4 +70,4 @@
 | front turn signals          | Motogadget             | $90        | Amazon                            |
 | tank pads                   | TechSpec               | $75        | RevZilla                          |
 | front sprocket              | Drive Systems          | $42        | 16T (-1 from stock) @ 4,290 miles |
-| rear  sprocket              | Drive Systems          | $50        | 40T (+2 from stock) @ n,nnn miles |
+| rear  sprocket              | Drive Systems          | $50        | 40T (+2 from stock) @ 4,500 miles |
