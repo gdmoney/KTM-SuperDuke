@@ -23,29 +23,29 @@
 
 ### Service
 
-| Service               | Date       | Mileage    | Cost       | Notes                                                              |
-| :-------------------- | :--------- | :--------: | :--------: | :----------------------------------------------------------------- |
-| engine oil & filter   | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service                              |
-|                       | 01.14.2023 | 5,720      |            | Motorex                                                            |
-| brake fluid           | 11.20.2021 | 1,750      |            |                                                                    |
-| clutch fluid          | 11.20.2021 | 1,750      |            |                                                                    |
-| coolant               | 11.20.2021 | 1,750      |            |                                                                    |
-|                       | 04.16.2022 | 3,400      |            |                                                                    |
-| brake pads - F        |            |            |            |                                                                    |
-| brake pads - R        |            |            |            |                                                                    |    
-| spark plugs           |            |            |            |                                                                    |
-| valve adjustment      |            |            |            |                                                                    |
-| chain clean/wax       | 04.15.2022 | 3,400      |            |                                                                    |
-|                       | 06.20.2022 | 3,800      |            |                                                                    |
-|                       | 01.14.2023 | 5,720      |            |                                                                    |
-| battery               | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling                        |
-| fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling                        |
-| fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling                        |
-| throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling                        |
-| radiator - new        | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete                       |
-| tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W                             |
-| tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W                             |
-| ECU flash             | 06.20.2022 | 3,800      | $400       | P3Tuning                                                           |
+| Service/Part          | Date       | Mileage    | Cost       | Notes                                                  |
+| :-------------------- | :--------- | :--------: | :--------: | :----------------------------------------------------- |
+| engine oil & filter   | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service                  |
+|                       | 01.14.2023 | 5,720      |            | Motorex                                                |
+| brake fluid           | 11.20.2021 | 1,750      |            |                                                        |
+| clutch fluid          | 11.20.2021 | 1,750      |            |                                                        |
+| coolant               | 11.20.2021 | 1,750      |            |                                                        |
+|                       | 04.16.2022 | 3,400      |            |                                                        |
+| brake pads - F        |            |            |            |                                                        |
+| brake pads - R        |            |            |            |                                                        |    
+| spark plugs           |            |            |            |                                                        |
+| valve adjustment      |            |            |            |                                                        |
+| chain clean/wax       | 04.15.2022 | 3,400      |            |                                                        |
+|                       | 06.20.2022 | 3,800      |            |                                                        |
+|                       | 01.14.2023 | 5,720      |            |                                                        |
+| battery               | 04.27.2023 | n,nnn      | $120       | KTM Powersports                                        |
+| fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling            |
+| fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling            |
+| throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling            |
+| radiator - new        | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete           |
+| tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W                 |
+| tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W                 |
+| ECU flash             | 06.20.2022 | 3,800      | $400       | P3Tuning                                               |
 
 
 
