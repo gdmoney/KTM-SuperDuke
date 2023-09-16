@@ -26,7 +26,7 @@
 | Service/Part          | Date       | Mileage    | Cost       | Notes                                             |
 | :-------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
 | engine oil & filter   | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service             |
-|                       | 01.14.2023 | 5,720      |            | Motorex                                           |
+|                       | 01.14.2023 | 5,700      |            | Motorex                                           |
 | brake fluid           | 11.20.2021 | 1,750      |            |                                                   |
 | clutch fluid          | 11.20.2021 | 1,750      |            |                                                   |
 | coolant               | 11.20.2021 | 1,750      |            |                                                   |
@@ -37,7 +37,7 @@
 | valve adjustment      |            |            |            |                                                   |
 | chain clean/wax       | 04.15.2022 | 3,400      |            |                                                   |
 |                       | 06.20.2022 | 3,800      |            |                                                   |
-|                       | 01.14.2023 | 5,720      |            |                                                   |
+|                       | 01.14.2023 | 5,700      |            |                                                   |
 | battery               | 04.27.2023 | 6,200      | $120       | KTM Powersports                                   |
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
