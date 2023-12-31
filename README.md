@@ -38,6 +38,7 @@
 | chain clean/wax       | 04.15.2022 | 3,400      |            |                                                   |
 |                       | 06.20.2022 | 3,800      |            |                                                   |
 |                       | 01.14.2023 | 5,700      |            |                                                   |
+|                       | 12.31.2023 | 7,400      |            |                                                   |
 | battery               | 04.27.2023 | 6,200      | $120       | KTM Powersports                                   |
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
