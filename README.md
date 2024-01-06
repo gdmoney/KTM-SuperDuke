@@ -34,19 +34,19 @@
 | air filter cleaning   | 01.05.2024 | 7,600      |            |                                                   |
 | brake fluid           | 11.20.2021 | 1,750      |            |                                                   |
 | clutch fluid          | 11.20.2021 | 1,750      |            |                                                   |
+| brake pads - F        |            |            |            |                                                   |
+| brake pads - R        |            |            |            |                                                   |   
 | coolant               | 11.20.2021 | 1,750      |            |                                                   |
 |                       | 04.16.2022 | 3,400      |            |                                                   |
-| brake pads - F        |            |            |            |                                                   |
-| brake pads - R        |            |            |            |                                                   |    
-| spark plugs           |            |            |            |                                                   |
-| valve adjustment      |            |            |            |                                                   |
+| tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W            |
+| tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W            |
 | battery               | 04.27.2023 | 6,200      | $120       | KTM Powersports                                   |
+| spark plugs           |            |            |            |                                                   |
 | fuel pump             | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | fuel filter           | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | throttle body service | 10.nn.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | radiator - new        | 04.16.2022 | 3,400      | $656       | new radiator, coolant, and thermostat delete      |
-| tire - F              | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W            |
-| tire - R              | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W            |
+| valve adjustment      |            |            |            |                                                   |
 
 
 
