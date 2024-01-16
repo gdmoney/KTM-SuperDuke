@@ -25,7 +25,7 @@
 
 | Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
 | :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
-| chain clean/wax              | 04.15.2022 | 3,400      |            |                                                   |
+| chain clean & wax            | 04.15.2022 | 3,400      |            |                                                   |
 |                              | 06.20.2022 | 3,800      |            |                                                   |
 |                              | 01.14.2023 | 5,700      |            |                                                   |
 |                              | 12.31.2023 | 7,400      |            |                                                   |
@@ -40,7 +40,7 @@
 |                              | 04.16.2022 | 3,400      |            |                                                   |
 | tire - F                     | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W            |
 | tire - R                     | 05.12.2022 | 3,750      | $200       | Michelin Pilot Power 2CT 190/55-17 75W            |
-| battery                      | 04.27.2023 | 6,200      | $120       | KTM Powersports                                   |
+| battery                      | 04.27.2023 | 6,200      | $120       | Poway Powersports                                 |
 | spark plugs                  |            |            |            |                                                   |
 | fuel pump                    | 10.15.2021 | 1,200      |            | previous owner had it done prior to selling       |
 | fuel filter                  | 10.15.2021 | 1,200      |            | previous owner had it done prior to selling       |
