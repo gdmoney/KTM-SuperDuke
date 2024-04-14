@@ -25,17 +25,17 @@
 
 | Service/Part                 | Date       | Mileage    | Cost       | Notes                                             |
 | :--------------------------- | :--------- | :--------: | :--------: | :------------------------------------------------ |
-| chain clean & wax            | 04.15.2022 | 3,400      |            |                                                   |
-|                              | 06.20.2022 | 3,800      |            |                                                   |
-|                              | 01.14.2023 | 5,700      |            |                                                   |
+| chain clean & wax            | 01.14.2023 | 5,700      |            |                                                   |
 |                              | 12.31.2023 | 7,400      |            |                                                   |
+|                              | 04.13.2024 | 8,000      |            |                                                   |
 | engine oil & filter          | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service             |
-|                              | 01.14.2023 | 5,700      |            | Motorex                                           |
+|                              | 01.14.2023 | 5,700      | $75        | Motorex Power Synthetic 4T 10W-50 and KN-650      |
+|                              | 04.13.2024 | 8,000      | $75        | Motorex Power Synthetic 4T 10W-50 and KN-650      |
 | air filter cleaning          | 01.05.2024 | 7,600      |            |                                                   |
 | brake fluid                  | 11.20.2021 | 1,750      |            |                                                   |
 | clutch fluid                 | 11.20.2021 | 1,750      |            |                                                   |
 | brake pads - F               |            |            |            |                                                   |
-| brake pads - R               |            |            |            |                                                   |   
+| brake pads - R               |            |            |            |                                                   |
 | coolant                      | 11.20.2021 | 1,750      |            |                                                   |
 |                              | 04.16.2022 | 3,400      |            |                                                   |
 | tire - F                     | 05.12.2022 | 3,750      | $145       | Michelin Pilot Power 2CT 120/70-17 58W            |
