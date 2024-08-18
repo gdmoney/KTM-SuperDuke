@@ -28,6 +28,7 @@
 | chain clean & wax            | 01.14.2023 | 5,700      |            |                                                   |
 |                              | 12.31.2023 | 7,400      |            |                                                   |
 |                              | 04.13.2024 | 8,000      |            |                                                   |
+|                              | 08.17.2024 | 8,500      |            |                                                   |
 | engine oil & filter          | 11.20.2021 | 1,750      | $231       | total cost for the 11.20.2021 service             |
 |                              | 01.14.2023 | 5,700      | $75        | Motorex Power Synthetic 4T 10W-50 and KN-650      |
 |                              | 04.13.2024 | 8,000      | $75        | Motorex Power Synthetic 4T 10W-50 and KN-650      |
@@ -69,6 +70,6 @@
 | tail light + turn signals    | CustomLED Blaster-X     | $160       | came with it                                      |
 | front turn signals           | Motogadget              | $90        | Amazon                                            |
 | tank pads                    | TechSpec                | $75        | RevZilla                                          |
-| front sprocket               | Drive Systems           | $42        | 16T (-1 from stock) @ 4,290 miles                 |
+| front sprocket               | Drive Systems           | $42        | 16T (-1 from stock) @ 4,300 miles                 |
 | rear  sprocket               | Drive Systems           | $50        | 40T (+2 from stock) @ 4,500 miles                 |
 | ECU flash                    | P3Tuning                | $400       | on 06.20.2022 @ 3,800 miles                       |
