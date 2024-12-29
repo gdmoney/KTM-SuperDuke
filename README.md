@@ -34,6 +34,7 @@
 |                              | 04.13.2024 | 8,000      | $75        | Motorex Power Synthetic 4T 10W-50 and KN-650      |
 | air filter cleaning          | 01.05.2024 | 7,600      |            |                                                   |
 | brake fluid                  | 11.20.2021 | 1,750      |            |                                                   |
+|                              | 12.28.2024 | 8,600      | $6         |                                                   |
 | clutch fluid                 | 11.20.2021 | 1,750      |            |                                                   |
 | brake pads - F               |            |            |            |                                                   |
 | brake pads - R               |            |            |            |                                                   |
