@@ -16,7 +16,6 @@
   - Type: `10W-50` full synthetic
   - Capacity: `3.6 L (3.8 qt)`
 - Tires:
-  - Model: `Dunlop Sportmax Sportsmart` (stock)
   - Front: `120/70 ZR 17` - `36 psi`
   - Rear:  `190/55 ZR 17` - `42 psi`
 
