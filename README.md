@@ -41,7 +41,7 @@
 |                              | 04.16.2022 |  3,400     |            |                                                   |
 | tire - F                     | 05.12.2022 |  3,750     | $145       | Michelin Pilot Power 2CT 120/70-17 58W            |
 | tire - R                     | 05.12.2022 |  3,750     | $200       | Michelin Pilot Power 2CT 190/55-17 75W            |
-|                              | 05.08.2025 |  8.900     | $270       | Michelin Power 6 190/55ZR-17 75W                  |
+|                              | 05.08.2025 |  8,900     | $270       | Michelin Power 6 190/55ZR-17 75W                  |
 | battery                      | 04.27.2023 |  6,200     | $120       | Poway Powersports                                 |
 | spark plugs                  |            |            |            |                                                   |
 | fuel pump                    | 10.15.2021 |  1,200     |            | previous owner had it done prior to selling       |
