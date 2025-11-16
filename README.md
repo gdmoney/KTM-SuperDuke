@@ -5,7 +5,7 @@
 
 ![](/pic.jpg)
 
-
+œ
 ### Notes
 - Bought on `11.02.2021` for `$11,000` with `1,250` miles
 - VIN: `VBKV39400FM922697`
